@@ -1,8 +1,0 @@
-{
-    "parent": "block/wall/wall_side",
-    "textures": {
-        "side": "block/wall/mossy_cobblestone_wall/wall_side",
-        "top": "block/wall/mossy_cobblestone_wall/wall_top",
-        "normal": "block/mossy_cobblestone"
-    }
-}

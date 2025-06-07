@@ -1,8 +1,0 @@
-{
-    "parent": "block/wall/wall_side",
-    "textures": {
-        "side": "block/wall/stone_brick_wall/wall_side",
-        "top": "block/wall/stone_brick_wall/wall_top",
-        "normal": "block/stone_bricks"
-    }
-}

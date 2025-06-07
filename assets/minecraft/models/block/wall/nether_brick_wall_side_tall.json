@@ -1,8 +1,0 @@
-{
-    "parent": "block/wall/wall_side_tall",
-    "textures": {
-        "side": "block/wall/nether_brick/wall_side_tall",
-        "top": "block/wall/nether_brick/wall_top",
-        "normal": "block/nether_bricks"
-    }
-}

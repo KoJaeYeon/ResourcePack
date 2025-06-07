@@ -1,8 +1,0 @@
-{
-    "parent": "block/wall/wall_side",
-    "textures": {
-        "side": "block/wall/red_sandstone/wall_side",
-        "top": "block/wall/red_sandstone/wall_top",
-        "normal": "block/red_sandstone"
-    }
-}

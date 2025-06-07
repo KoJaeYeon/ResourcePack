@@ -1,8 +1,0 @@
-{
-    "parent": "block/wall/wall_post",
-    "textures": {
-        "side": "block/wall/end_stone_brick/post_side",
-        "top": "block/wall/end_stone_brick/post_top",
-        "normal": "block/end_stone_bricks"
-    }
-}

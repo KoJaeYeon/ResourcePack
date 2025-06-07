@@ -1,8 +1,0 @@
-{
-    "parent": "block/wall/wall_post",
-    "textures": {
-        "side": "block/wall/andesite/post_side",
-        "top": "block/wall/andesite/post_top",
-        "normal": "block/andesite"
-    }
-}

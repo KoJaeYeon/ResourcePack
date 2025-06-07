@@ -1,8 +1,0 @@
-{
-    "parent": "block/door/door_top",
-    "textures": {
-        "particle": "block/door/dark_oak/upper",
-        "texture": "block/door/dark_oak/upper",
-		"frame": "block/door/dark_oak/trim"
-    }
-}

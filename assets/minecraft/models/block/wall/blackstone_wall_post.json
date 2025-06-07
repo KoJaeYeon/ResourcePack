@@ -1,8 +1,0 @@
-{
-    "parent": "block/wall/wall_post",
-    "textures": {
-        "side": "block/wall/blackstone/post_side",
-        "top": "block/wall/blackstone/post_top",
-        "normal": "block/blackstone"
-    }
-}
